@@ -1,0 +1,5 @@
+{
+  "name": "usage-reserve",
+  "owner": { "name": "capabebelace" },
+  "plugins": [{ "name": "usage-reserve", "source": "./" }]
+}

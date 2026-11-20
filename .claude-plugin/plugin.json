@@ -1,0 +1,1 @@
+{ "name": "usage-reserve", "version": "0.1.0", "license": "MIT", "description": "Hold back part of the weekly usage limit for a chosen day: warns, then blocks prompts before it would be eaten into." }
